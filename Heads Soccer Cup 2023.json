@@ -1,14 +1,14 @@
 {
   "AdsController": {
     "adNetwork": "admob",
-    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
-    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admobBanner": "ca-app-pub-7682816481695169/1537467437",
+    "admobInterstitial": "ca-app-pub-7682816481695169/7344327886",
     "applovinBanner": "16cb520e5",
     "applovinInterstitial": "16cb520e5",
-    "unityGameId": "5120597",
+    "unityGameId": "5148947",
     "testMode": true,
-    "unityBanner": "Banner_Android",
-    "unityInterstitial": "Interstitial_Android",
+    "unityBanner": "Football_Soccer_Ball_Game_2023",
+    "unityInterstitial": "Football_Soccer-Ball_Game_2023",
     "reviewActive": true
   }
 }
